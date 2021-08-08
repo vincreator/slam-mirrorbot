@@ -304,6 +304,22 @@ machine example.workers.dev password index_password
 ```
 Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of different hosts can be added each separated by a new line.
 
+# Uptime your apps
+this function is to turn on your bot so it doesn't fall asleep.
+<details>
+    <summary><b>Click here for more details</b></summary>
+
+choose one of these:
+
+- [Cron Job](https://cron-job.org) Just put your app link
+- [Uptime Robot](https://uptimerobot.com) Just put your app link
+- [Kaffeine](https://kaffeine.herokuapp.com) Just put your app link
+- [PingDom](https://pingdom.com) Just put your app link
+- [AddOn Newrelic](https://elements.heroku.com/addons/newrelic)
+- [AddOn Scheduler](https://elements.heroku.com/addons/scheduler)
+
+</details>           
+
 # Credits
 
 Thanks to:
